@@ -1,6 +1,6 @@
 #include "mechanics.h"
 #include "player.hpp"
-
+#include "monster.hpp"
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
